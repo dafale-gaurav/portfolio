@@ -19,10 +19,10 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After completing my HSC in <span className="font-medium">Commerce</span>, I discovered my passion for technology and pursued a B.Sc. in Information Technology at Dahanukar College, followed by a Master's in Computer Applications at Hiray College. Along the way, I honed my skills in{" "}
+        After completing my HSC in <span className="font-medium">Commerce</span>, I discovered my passion for technology and pursued a B.Sc. in Information Technology at Dahanukar College, followed by a Master&apos;s in Computer Applications at Hiray College. Along the way, I honed my skills in{" "}
         <span className="font-medium">full-stack web development</span> at RST coding classes, focusing on my core stack:{" "}
         <span className="font-medium">React, Node.js, and MongoDB</span>.{" "}
-        <span className="italic">What excites me most about programming</span> is the problem-solving aspect—the thrill of finding solutions to complex challenges keeps me motivated. I'm always eager to explore new technologies and expand my skill set. Currently, I&apos;m seeking a{" "}
+        <span className="italic">What excites me most about programming</span> is the problem-solving aspect—the thrill of finding solutions to complex challenges keeps me motivated. I&apos;m always eager to explore new technologies and expand my skill set. Currently, I&apos;m seeking a{" "}
         <span className="font-medium">full-time position</span> as a software developer where I can contribute my expertise and grow professionally.
       </p>
       <p className="mb-3">
