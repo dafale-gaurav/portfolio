@@ -26,10 +26,10 @@ export default function About() {
         <span className="font-medium">full-time position</span> as a software developer where I can contribute my expertise and grow professionally.
       </p>
       <p className="mb-3">
-        When I&apos;m not coding, you&apos;ll find me playing video games, enjoying movies, or spending time with my dog. I also have a curious mind and enjoy learning about{" "}
+        When I&apos;m not coding, you&apos;ll find me playing video games, enjoying movies, or spending time with my friends. I also have a curious mind and enjoy learning about{" "}
         <span className="font-medium">history</span>,{" "}
-        <span className="font-medium">philosophy</span>, and even picking up new skills like{" "}
-        <span className="font-medium">playing the guitar</span>. Let&apos;s connect and create something amazing together!
+        <span className="font-medium">geopolitics</span>, and even picking up new skills like{" "}
+        <span className="font-medium">playing the chess</span>. Let&apos;s connect and create something amazing together!
       </p>
     </motion.section>
   );
