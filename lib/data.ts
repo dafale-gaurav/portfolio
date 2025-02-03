@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import ProShop from "@/public/ProShop.png";
 import PropertyPulse from "@/public/PropertyPulse.png"
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import ProPizza from "@/public/ProPizza.png"
 
 export const links = [
   {
@@ -51,12 +51,12 @@ export const experiencesData = [
     date: "2022 - 2024",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Front-End Developer",
+    location: "Vile Parle, Mumbai",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2024",
   },
 ] as const;
 
@@ -78,12 +78,12 @@ export const projectsData = [
     link:"https://proshop-d8k5.onrender.com",
   },
   {
-    title: "Word Analytics",
+    title: "Pro Pizza",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A seamless and interactive pizza ordering application built for a delightful user experience.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
-    link:"https://proshop-d8k5.onrender.com",
+    imageUrl: ProPizza,
+    link:"https://propizza.netlify.app/",
   },
 ] as const;
 
