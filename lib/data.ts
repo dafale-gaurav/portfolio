@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import ProShop from "@/public/ProShop.png";
 import PropertyPulse from "@/public/PropertyPulse.png"
 import ProPizza from "@/public/ProPizza.png"
+import Chatty from "@/public/Chatty.png"
 
 export const links = [
   {
@@ -85,6 +86,14 @@ export const projectsData = [
     imageUrl: ProPizza,
     link:"https://propizza.netlify.app/",
   },
+  {
+    title: "Chatty",
+    description:
+      "A real-time chat application built with the MERN stack and Socket.io, enabling seamless messaging with instant updates. It features user authentication, live conversations, and a responsive UI for smooth communication.",
+    tags: ["React", "Node", "Socket.io", "Tailwind", "Daisy UI"],
+    imageUrl: Chatty,
+    link:"https://github.com/dafale-gaurav/CHAT_APP",
+  },
 ] as const;
 
 export const skillsData = [
@@ -107,4 +116,6 @@ export const skillsData = [
   "Python",
   "SQL",
   "Framer Motion",
+  "Socket.io",
+  "Daisy UI",
 ] as const;
