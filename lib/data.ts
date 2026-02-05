@@ -47,17 +47,17 @@ export const experiencesData = [
     title: "MCA",
     location: "LATE BHAUSAHEB HIRAY S.S. Trust's Institute of Computer Application, Mumbai University",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Completed Master of Computer Applications (MCA), gaining solid knowledge of full-stack web development.",
     icon: React.createElement(LuGraduationCap),
     date: "2022 - 2024",
   },
   {
-    title: "Front-End Developer",
-    location: "Vile Parle, Mumbai",
+    title: "Junior Software Developer",
+    location: "Andheri, Mumbai",
     description:
-      "I'm now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a Full Stack developer. My stack includes React, Next.js, Nest.js, TypeScript, Tailwind, TypeORM and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2024",
+    date: "2025 - Present",
   },
 ] as const;
 
@@ -113,6 +113,8 @@ export const skillsData = [
   "AWS",
   "Express",
   "PostgreSQL",
+  "TypeORM",
+  "Nest.js",
   "Python",
   "SQL",
   "Framer Motion",
