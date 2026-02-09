@@ -10,8 +10,7 @@ import { FaGithubSquare } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
-// import {Gaurav} from "@/public/Gaurav.jpg";   
-
+// import {Gaurav} from "@/public/Gaurav.jpg";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -70,8 +69,7 @@ export default function Intro() {
         <p>
           <span>I enjoy building sites &amp; apps</span>.
         </p>{" "}
-        My focus is{" "}
-        <span className="underline">MERN</span>.
+        My focus is <span className="underline">MERN</span>.
       </motion.h1>
 
       <motion.div
